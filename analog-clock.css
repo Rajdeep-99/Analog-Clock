@@ -1,6 +1,6 @@
 #clockContainer{
     position: relative;
-    background: url(./Images/clock.jpg) no-repeat;
+    background: url(Images/clock.jpg) no-repeat;
     height: 30vw;
     width:30vw;
     background-size: 100%;/*fit the image in a div*/
